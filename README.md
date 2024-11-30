@@ -1,8 +1,8 @@
-- 👋 Hey, I’m @BlindMetropolis35
+- 👋 Hey, I’m Pawan
 - 👀 I’m interested in Android Dev
-- 🌱 I’m currently learning Kotlin
+- 🌱 Intermediate in Kotlin
 - 📫 How to reach me blindmetropolis35@duck.com
-- ⚡ Fun fact: Nothing!
+- ⚡ Love to build random applications
 
 <!---
 BlindMetropolis35/BlindMetropolis35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
